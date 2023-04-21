@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">678158683706-41pe2sa3cjpcsbjqj6pa9u2cbhhi1eab.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://raider-ride-driver-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">678158683706</string>
+    <string name="google_api_key" translatable="false">AIzaSyAb5oPRWGJk2R7T9CpfKhZ439VGvgLpmX8</string>
+    <string name="google_app_id" translatable="false">1:678158683706:android:067930ae2cc49193836f03</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAb5oPRWGJk2R7T9CpfKhZ439VGvgLpmX8</string>
+    <string name="google_storage_bucket" translatable="false">raider-ride-driver.appspot.com</string>
+    <string name="project_id" translatable="false">raider-ride-driver</string>
+</resources>

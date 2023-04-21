@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="exo_controls_playback_speeds">
+    <item>0,25x</item>
+    <item>0,5x</item>
+    <item>0,75x</item>
+    <item>Normal</item>
+    <item>1,25x</item>
+    <item>1,5x</item>
+    <item>2x</item>
+  </string-array>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+    <item quantity="one">%d saniye ileri sar</item>
+    <item quantity="other">%d saniye ileri sar</item>
+  </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+    <item quantity="one">%d saniye geri sar</item>
+    <item quantity="other">%d saniye geri sar</item>
+  </plurals>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Etkinleştir</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">Google Play hizmetlerini etkinleştirmezseniz %1$s çalışmaz.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Google Play hizmetlerini etkinleştirin</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Yükle</string>
+    <string name="common_google_play_services_install_text">%1$s, şu anda cihazınızda bulunmayan Google Play hizmetleri olmadan çalışmaz.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Google Play hizmetlerini edinin</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play hizmetlerinin kullanılabilirliği</string>
+    <string name="common_google_play_services_notification_ticker">Google Play Hizmetleri hatası</string>
+    <string name="common_google_play_services_unknown_issue">%1$s, Google Play hizmetleriyle ilgili sorun yaşıyor. Lütfen tekrar deneyin.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s, Google Play hizmetleri olmadan çalışmaz ve bu hizmetler cihazınız tarafından desteklenmiyor.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Güncelle</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">Google Play hizmetlerini güncellemezseniz %1$s çalışmayacak.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Google Play hizmetlerini güncelleyin</string>
+    <string name="common_google_play_services_updating_text">%1$s, şu anda güncellenmekte olan Google Play hizmetleri olmadan çalışmaz.</string>
+    <string name="common_google_play_services_wear_update_text">Google Play hizmetlerinin yeni sürümü gerekiyor. Kendisini kısa süre içinde güncelleyecektir.</string>
+    <string name="common_open_on_phone">Telefonda aç</string>
+    <string name="common_signin_button_text">Oturum aç</string>
+    <string name="common_signin_button_text_long">Google\'da oturum aç</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Bağlantı panoya kopyalandı"</string>
+    <string name="exo_controls_cc_disabled_description">Altyazıları etkinleştir</string>
+    <string name="exo_controls_cc_enabled_description">Altyazıları devre dışı bırak</string>
+    <string name="exo_controls_fastforward_description">İleri sar</string>
+    <string name="exo_controls_fullscreen_enter_description">Tam ekrana geç</string>
+    <string name="exo_controls_fullscreen_exit_description">Tam ekrandan çık</string>
+    <string name="exo_controls_hide">Oynatıcı kontrollerini gizle</string>
+    <string name="exo_controls_next_description">Sonraki</string>
+    <string name="exo_controls_overflow_hide_description">Ek ayarları gizle</string>
+    <string name="exo_controls_overflow_show_description">Ek ayarları göster</string>
+    <string name="exo_controls_pause_description">Duraklat</string>
+    <string name="exo_controls_play_description">Çal</string>
+    <string name="exo_controls_playback_speed">Hız</string>
+    <string name="exo_controls_previous_description">Önceki</string>
+    <string name="exo_controls_repeat_all_description">Geçerli mod: Tümünü tekrarla. Tekrarlamayı aç/kapat.</string>
+    <string name="exo_controls_repeat_off_description">Geçerli mod: Tekrarlama. Tekrarlamayı aç/kapat.</string>
+    <string name="exo_controls_repeat_one_description">Geçerli mod: Birini tekrarla. Tekrarlamayı aç/kapat.</string>
+    <string name="exo_controls_rewind_description">Geri sar</string>
+    <string name="exo_controls_seek_bar_description">Çalma ilerleme durumu</string>
+    <string name="exo_controls_settings_description">Ayarlar</string>
+    <string name="exo_controls_show">Oynatıcı kontrollerini göster</string>
+    <string name="exo_controls_shuffle_off_description">Karıştırma modunu etkinleştir</string>
+    <string name="exo_controls_shuffle_on_description">Karıştırma modunu devre dışı bırak</string>
+    <string name="exo_controls_stop_description">Durdur</string>
+    <string name="exo_controls_vr_description">VR modu</string>
+    <string name="exo_download_completed">İndirme işlemi tamamlandı</string>
+    <string name="exo_download_description">İndir</string>
+    <string name="exo_download_downloading">İndiriliyor</string>
+    <string name="exo_download_failed">İndirilemedi</string>
+    <string name="exo_download_notification_channel_name">İndirilenler</string>
+    <string name="exo_download_paused">İndirmeler duraklatıldı</string>
+    <string name="exo_download_paused_for_network">İndirmeler için ağ bekleniyor</string>
+    <string name="exo_download_paused_for_wifi">İndirmeler için kablosuz ağ bekleniyor</string>
+    <string name="exo_download_removing">İndirilenler kaldırılıyor</string>
+    <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
+    <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">Alternatif</string>
+    <string name="exo_track_role_closed_captions">Altyazı</string>
+    <string name="exo_track_role_commentary">Anlatım</string>
+    <string name="exo_track_role_supplementary">Ek kanal</string>
+    <string name="exo_track_selection_auto">Otomatik</string>
+    <string name="exo_track_selection_none">Yok</string>
+    <string name="exo_track_selection_title_audio">Ses</string>
+    <string name="exo_track_selection_title_text">Metin</string>
+    <string name="exo_track_selection_title_video">Video</string>
+    <string name="exo_track_stereo">Stereo</string>
+    <string name="exo_track_surround">Surround ses</string>
+    <string name="exo_track_surround_5_point_1">5.1 surround ses</string>
+    <string name="exo_track_surround_7_point_1">7.1 surround ses</string>
+    <string name="exo_track_unknown">Bilinmiyor</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Bağlantıyı kopyala"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Tarayıcıda aç"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Bağlantıyı paylaş"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

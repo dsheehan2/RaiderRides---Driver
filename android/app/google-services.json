@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "678158683706",
+    "firebase_url": "https://raider-ride-driver-default-rtdb.firebaseio.com",
+    "project_id": "raider-ride-driver",
+    "storage_bucket": "raider-ride-driver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678158683706:android:067930ae2cc49193836f03",
+        "android_client_info": {
+          "package_name": "com.capstone.driversapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678158683706-41pe2sa3cjpcsbjqj6pa9u2cbhhi1eab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb5oPRWGJk2R7T9CpfKhZ439VGvgLpmX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678158683706-41pe2sa3cjpcsbjqj6pa9u2cbhhi1eab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

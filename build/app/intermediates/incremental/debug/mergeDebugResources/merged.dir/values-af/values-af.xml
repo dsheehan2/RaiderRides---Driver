@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="exo_controls_playback_speeds">
+    <item>0,25x</item>
+    <item>0,5x</item>
+    <item>0,75x</item>
+    <item>Normaal</item>
+    <item>1,25x</item>
+    <item>1,5x</item>
+    <item>2x</item>
+  </string-array>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+    <item quantity="one">Spoel %d sekonde vinnig vorentoe</item>
+    <item quantity="other">Spoel %d sekondes vinnig vorentoe</item>
+  </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+    <item quantity="one">Spoel %d sekonde terug</item>
+    <item quantity="other">Spoel %d sekondes terug</item>
+  </plurals>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Aktiveer</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">%1$s sal nie werk nie tensy jy Google Play Dienste aktiveer.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Aktiveer Google Play Dienste</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Installeer</string>
+    <string name="common_google_play_services_install_text">%1$s sal nie sonder Google Play Dienste werk nie, wat nie op jou toestel is nie.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Kry Google Play Dienste</string>
+    <string name="common_google_play_services_notification_channel_name">Beskikbaarheid van Google Play Dienste</string>
+    <string name="common_google_play_services_notification_ticker">Google Play Services-fout</string>
+    <string name="common_google_play_services_unknown_issue">%1$s ondervind probleme met Google Play Dienste. Probeer asseblief weer.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s sal nie werk sonder Google Play Dienste nie, wat nie deur jou toestel gesteun word nie.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Dateer op</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">%1$s sal nie werk nie tensy jy Google Play Dienste opdateer.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Dateer Google Play Dienste op</string>
+    <string name="common_google_play_services_updating_text">%1$s sal nie sonder Google Play Dienste werk nie, wat tans opdateer.</string>
+    <string name="common_google_play_services_wear_update_text">Nuwe weergawe van Google Play Dienste is nodig. Dit sal binnekort self opdateer.</string>
+    <string name="common_open_on_phone">Maak oop op foon</string>
+    <string name="common_signin_button_text">Meld aan</string>
+    <string name="common_signin_button_text_long">Meld aan met Google</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Skakel is na knipbord gekopieer"</string>
+    <string name="exo_controls_cc_disabled_description">Aktiveer onderskrifte</string>
+    <string name="exo_controls_cc_enabled_description">Deaktiveer onderskrifte</string>
+    <string name="exo_controls_fastforward_description">Spoel vorentoe</string>
+    <string name="exo_controls_fullscreen_enter_description">Gaan na volskerm</string>
+    <string name="exo_controls_fullscreen_exit_description">Verlaat volskerm</string>
+    <string name="exo_controls_hide">Versteek spelerkontroles</string>
+    <string name="exo_controls_next_description">Volgende</string>
+    <string name="exo_controls_overflow_hide_description">Versteek bykomende instellings</string>
+    <string name="exo_controls_overflow_show_description">Wys bykomende instellings</string>
+    <string name="exo_controls_pause_description">Onderbreek</string>
+    <string name="exo_controls_play_description">Speel</string>
+    <string name="exo_controls_playback_speed">Spoed</string>
+    <string name="exo_controls_previous_description">Vorige</string>
+    <string name="exo_controls_repeat_all_description">Huidige modus: herhaal alles. Wissel herhaalmodus.</string>
+    <string name="exo_controls_repeat_off_description">Huidige modus: herhaal niks. Wissel herhaalmodus.</string>
+    <string name="exo_controls_repeat_one_description">Huidige modus: herhaal een. Wissel herhaalmodus.</string>
+    <string name="exo_controls_rewind_description">Spoel terug</string>
+    <string name="exo_controls_seek_bar_description">Terugspeelvordering</string>
+    <string name="exo_controls_settings_description">Instellings</string>
+    <string name="exo_controls_show">Wys spelerkontroles</string>
+    <string name="exo_controls_shuffle_off_description">Aktiveer skommelmodus</string>
+    <string name="exo_controls_shuffle_on_description">Deaktiveer skommelmodus</string>
+    <string name="exo_controls_stop_description">Stop</string>
+    <string name="exo_controls_vr_description">VR-modus</string>
+    <string name="exo_download_completed">Aflaai is voltooi</string>
+    <string name="exo_download_description">Aflaai</string>
+    <string name="exo_download_downloading">Laai tans af</string>
+    <string name="exo_download_failed">Kon nie aflaai nie</string>
+    <string name="exo_download_notification_channel_name">Aflaaie</string>
+    <string name="exo_download_paused">Aflaaie is onderbreek</string>
+    <string name="exo_download_paused_for_network">Aflaaie wag tans vir netwerk</string>
+    <string name="exo_download_paused_for_wifi">Aflaaie wag tans vir wi-fi</string>
+    <string name="exo_download_removing">Verwyder tans aflaaie</string>
+    <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
+    <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">Afwisselend</string>
+    <string name="exo_track_role_closed_captions">Onderskrifte</string>
+    <string name="exo_track_role_commentary">Kommentaar</string>
+    <string name="exo_track_role_supplementary">Aanvullend</string>
+    <string name="exo_track_selection_auto">Outo</string>
+    <string name="exo_track_selection_none">Geen</string>
+    <string name="exo_track_selection_title_audio">Oudio</string>
+    <string name="exo_track_selection_title_text">Teks</string>
+    <string name="exo_track_selection_title_video">Video</string>
+    <string name="exo_track_stereo">Stereo</string>
+    <string name="exo_track_surround">Omringklank</string>
+    <string name="exo_track_surround_5_point_1">5.1-omringklank</string>
+    <string name="exo_track_surround_7_point_1">7.1-omringklank</string>
+    <string name="exo_track_unknown">Onbekend</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Kopieer skakel"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Maak in blaaier oop"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Deel skakel"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>
