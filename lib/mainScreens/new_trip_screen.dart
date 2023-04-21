@@ -619,18 +619,18 @@ class _NewTripScreenState extends State<NewTripScreen>
     databaseReference.child("driverId").set(onlineDriverData.id);
     databaseReference.child("driverName").set(onlineDriverData.name);
     databaseReference.child("driverPhone").set(onlineDriverData.phone);
-    databaseReference.child("car_details").set(onlineDriverData.car_color.toString() + onlineDriverData.car_model.toString());
+    databaseReference.child("car_details").set(onlineDriverData.car_color.toString() + " " + onlineDriverData.car_model.toString() + " " + onlineDriverData.car_number.toString());
 
-    saveRideRequestIdToDriverHistory();
+    //saveRideRequestIdToDriverHistory();
   }
 
-  saveRideRequestIdToDriverHistory()
-  {
-    DatabaseReference tripsHistoryRef = FirebaseDatabase.instance.ref()
-        .child("drivers")
-        .child(currentFirebaseUser!.uid)
-        .child("tripsHistory");
-    
-    tripsHistoryRef.child(widget.userRideRequestDetails!.rideRequestId!).set(true);
-  }
+  // saveRideRequestIdToDriverHistory()
+  // {
+  //   DatabaseReference tripsHistoryRef = FirebaseDatabase.instance.ref()
+  //       .child("drivers")
+  //       .child(currentFirebaseUser!.uid)
+  //       .child("tripsHistory");
+  //
+  //   tripsHistoryRef.child(widget.userRideRequestDetails!.rideRequestId!).set(true);
+  // }
 }

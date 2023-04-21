@@ -4,14 +4,14 @@
             "outputFile": "com.example.driver_app-mergeDebugResources-27:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/dsheehan/StudioProjects/driver_app/android/app/src/main/res/values-night/styles.xml",
+                    "source": "C:\\Users\\arams\\RaiderRides---Driver\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
-                        "startOffsets": "172,817",
+                        "startOffsets": "175,831",
                         "endLines": "7,16",
                         "endColumns": "12,12",
-                        "endOffsets": "475,981"
+                        "endOffsets": "482,997"
                     },
                     "to": {
                         "startLines": "2,6",
