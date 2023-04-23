@@ -91,12 +91,12 @@ class _EarningsTabPageState extends State<EarningsTabPage> {
                         ),
                       ),
                     ),
-                  ]
+                  ],
                 ),
               ),
           ),
         ]
-    )
+    ),
     );
   }
 }
